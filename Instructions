@@ -1,7 +1,7 @@
 Instructions of using the Matlab code for the Paper: An Investigation of "Reputation for Quality": A numerical framework
 
 1) Routine.m the main schript is 
-	- That scribt will execute the Algorithm 5 described in the paper
+	- That scribt will execute the Algorithm
 	- All generated data, hence candidates and equilibrium cutoff-values are written into matrices
 	- Furthermore, the corresponding Chebyshev-approximation errors, information about the monotonicity and system-parameters are saved as well during the routine
 
