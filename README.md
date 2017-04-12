@@ -12,4 +12,4 @@ The results of this approach provide evidence that the marginal flow cost of an 
 	- Plots the value curves according to a cutoff-value and system-parameters that has to be prespecified.
 
 3) printcandidates.m, printoptimumcflex.m, printoptimumrflex.m, printvalueofqualigrid.m:
-	- plot different graphics with output from Routine.m
+	- Plot different graphics with output from Routine.m
